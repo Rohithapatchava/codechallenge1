@@ -1,0 +1,6 @@
+D:\Rohitha\c sharp\codechallenge1\codechallenge1\obj\Debug\codechallenge1.csprojAssemblyReference.cache
+D:\Rohitha\c sharp\codechallenge1\codechallenge1\bin\Debug\codechallenge1.exe.config
+D:\Rohitha\c sharp\codechallenge1\codechallenge1\bin\Debug\codechallenge1.exe
+D:\Rohitha\c sharp\codechallenge1\codechallenge1\bin\Debug\codechallenge1.pdb
+D:\Rohitha\c sharp\codechallenge1\codechallenge1\obj\Debug\codechallenge1.exe
+D:\Rohitha\c sharp\codechallenge1\codechallenge1\obj\Debug\codechallenge1.pdb
